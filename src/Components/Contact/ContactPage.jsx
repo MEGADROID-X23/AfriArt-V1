@@ -34,7 +34,7 @@ const ContactPage = () => {
         <div className="contactInfo">
           <div className="contactAddress">
             <div className="address">
-              <h3>Center at Berger</h3>
+              <h3>Center at OJodu-Berger</h3>
               <p>
                 Address: 80 Olowora Rd, Olowora, Lagos 105102, Lagos
                 <br /> Nigeria
