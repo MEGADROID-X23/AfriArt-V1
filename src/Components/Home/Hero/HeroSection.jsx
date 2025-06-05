@@ -27,7 +27,7 @@ const HeroSection = () => {
           {/* <p>New Masterpiece</p> */}
           <h1>Welcome to AfriArt</h1>
           <span>Discover Authentic African Art & Culture by exploring a curated collection of contemporary and traditional African artworks from talented artists across the nation.</span>
-          <span>Explore the concept of 3D painting by interacting with the T-shirt and color palette below.</span>
+          <span>Explore the concept of 3D painting by interacting with the T-shirt and color palette.</span>
         </div>
         <div className="sectionright">
           <Canvas
