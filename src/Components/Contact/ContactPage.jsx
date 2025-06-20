@@ -36,7 +36,7 @@ const ContactPage = () => {
             <div className="address">
               <h3>Center at OJodu-Berger</h3>
               <p>
-                Address: 80 Olowora Rd, Olowora, Lagos 105102, Lagos
+                Address: 80 Olowora Rd, Olowora, Lagos 105102,
                 <br /> Nigeria
               </p>
               <p>
@@ -45,10 +45,10 @@ const ContactPage = () => {
                 +234-702 571 3326
               </p>
             </div>
-            {/* <div className="address">
-              <h3>Center at Ikeja</h3>
+            <div className="address">
+              <h3>Center at Lekki Phase 1</h3>
               <p>
-                27,Thomas Salako Street Ogba-Ikeja, Lagos.
+                Address: 24B Bashorun Okusanya Street, Off, Admiralty Way, Admiralty Rd, Lekki Phase 1, Lagos 106104,
                 <br /> Nigeria
               </p>
               <p>
@@ -56,7 +56,7 @@ const ContactPage = () => {
                 <br />
                 +234-702 571 3326
               </p>
-            </div> */}
+            </div>
           </div>
           <div className="contactForm">
             <h3>Get In Touch</h3>
