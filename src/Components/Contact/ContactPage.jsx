@@ -34,7 +34,8 @@ const ContactPage = () => {
         <h2>Contact Us</h2>
         <div className="contactMap">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1981.5433949896603!2d3.3727040510695074!3d6.636143346919725!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b91e03948cd71%0A0x2e0be200b973a83e!2sLagos%20School%20of%20Programming%20(LASOP)!5e0!3m2!1sen!2sng!4v1747086125777!5m2!1sen!2sng"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3586.386813187767!2d3.3713377744811206!3d6.6361874218446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b91e03948cd71%3A0x2e0be200b973a83e!2sLagos%20School%20of%20Programming%20(LASOP)!5e1!3m2!1sen!2sfr!4v1750763786030!5m2!1sen!2sfr"
+            
             width="800"
             height="600"
             allowfullscreen=""
