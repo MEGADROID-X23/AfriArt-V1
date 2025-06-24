@@ -45,7 +45,30 @@ const ContactPage = () => {
         </div>
         <div className="contactInfo">
           <div className="contactAddress">
-            {/* Your existing address content remains unchanged */}
+            <div className="address">
+              <h3>Center at OJodu-Berger</h3>
+              <p>
+                Address: 86 Olowora Rd, Olowora, Lagos 105102,
+                <br /> Nigeria
+              </p>
+              <p>
+                info@lasop.net
+                <br />
+                +234-702 571 3326
+              </p>
+            </div>
+            <div className="address">
+              <h3>Center at Lekki Phase 1</h3>
+              <p>
+                Address: 24B Bashorun Okusanya Street, Off, Admiralty Way, Admiralty Rd, Lekki Phase 1, Lagos 106104,
+                <br /> Nigeria
+              </p>
+              <p>
+                info@lasop.net
+                <br />
+                +234-702 571 3326
+              </p>
+            </div>
           </div>
           <div className="contactForm">
             <h3>Get In Touch</h3>
