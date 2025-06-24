@@ -79,6 +79,15 @@
   cursor: pointer;
 }
 
+.contactForm input {
+  margin-bottom: 15px;
+}
+
+/* Add WhatsApp-specific styling */
+.contactForm input[name="whatsapp"]::placeholder {
+  color: #666;
+}
+
 @media screen and (max-width: 1210px) {
   .contactSection h2 {
     padding: 30px 60px;
